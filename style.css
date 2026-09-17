@@ -1,0 +1,26 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+}
+
+html,
+body{
+    height: 100%;
+
+}
+
+div{
+    background-color: bisque;
+    height: 100%;
+    
+}
+
+nav{
+    color:bisque;
+    background-color: bisque;
+    font-size: 40px;
+    font-style: oblique;
+    letter-spacing: 5px;
+}
